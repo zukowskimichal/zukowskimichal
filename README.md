@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Michał.
+📫 You can reach me: [here](https://www.linkedin.com/in/micha%C5%82-%C5%BC-790691129/)
+
 
 <!--
 **zukowskimichal/zukowskimichal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
