@@ -5,6 +5,19 @@ I'm a software engineer with 6 years of experience specializing in Java-based ba
 I've played a pivotal role in various projects, from greenfield initiatives to complex migrations and refactoring efforts, always with a focus on clean code and best practices. My experience covers the full software development lifecycle, including supervising releases, managing integration tests, and ensuring quality at every stage.
 
 In addition to technical skills, I've mentored junior developers and led teams through challenging projects, emphasizing collaboration, continuous improvement, and innovation. I'm passionate about leveraging technology to solve complex problems and drive business growth, always eager to tackle new challenges and contribute to my team's success.
+## Current interests
+🌱 I’m currently learning:
+- solidity
+<br/>
+
+🔭 I’m currently working on:
+
+- trading bots
+- web3 Dapps
+<br/>
+
+STAY TUNED...
+
 
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJ2ZnFuNzZrN2s0YWdnajNrcm56dm85dnJ4NTZtOXdxNmx4MWJ3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" align="right" alt="GIF" width="400" height="320" />
