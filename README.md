@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Michał.
 ![MICHAL GITHUB](https://github.com/zukowskimichal/zukowskimichal/blob/main/backenddev.png?raw=true)
-I'm a software engineer with 6 years of experience specializing in Java-based backend development, including microservices, messaging systems (Kafka, MQ), and both NoSQL and SQL databases. My expertise extends to Java 11 and 17, where I've built scalable, efficient systems designed for high availability and performance.
+I'm a software engineer with over 6 years of experience specializing in Java-based backend development, including microservices, messaging systems (Kafka, MQ), and both NoSQL and SQL databases. My expertise extends to Java 11 and 17, where I've built scalable, efficient systems designed for high availability and performance.
 
 I've played a pivotal role in various projects, from greenfield initiatives to complex migrations and refactoring efforts, always with a focus on clean code and best practices. My experience covers the full software development lifecycle, including supervising releases, managing integration tests, and ensuring quality at every stage.
 
-In addition to technical skills, I've mentored junior developers and led teams through challenging projects, emphasizing collaboration, continuous improvement, and innovation. I'm passionate about leveraging technology to solve complex problems and drive business growth, always eager to tackle new challenges and contribute to my team's success.
+In addition to technical skills, I've mentored junior developers and led teams through challenging projects, emphasizing collaboration, continuous improvement, and innovation. I'm passionate about leveraging technology to solve complex problems and drive business growth, and I am always eager to tackle new challenges and contribute to my team's success.
 ## Current interests
 🌱 I’m currently learning:
 - solidity
